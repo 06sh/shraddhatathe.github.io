@@ -1,0 +1,10 @@
+body {
+background-image:url(nature.jpg);
+height:100vh;
+	background-size:cover;
+	background-position:center;
+}
+h1,h2 {
+position:center;
+color:red;
+}
